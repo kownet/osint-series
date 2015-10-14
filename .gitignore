@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# KEYS
+twitter_keys.py
+instagram_keys.py
+youtube_keys.py
+facebook_keys.py
