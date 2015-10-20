@@ -57,7 +57,7 @@ docs/_build/
 target/
 
 # KEYS
-twitter_keys.py
-instagram_keys.py
-youtube_keys.py
-facebook_keys.py
+_twitter_keys.py
+_instagram_keys.py
+_youtube_keys.py
+_facebook_keys.py
