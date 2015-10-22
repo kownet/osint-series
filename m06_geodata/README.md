@@ -1,6 +1,6 @@
 OSINT - M06 - Gathering geographic data with WikiMapia
 ======================================================
 
-###Author:
+##Author:
 
 [Tomasz Kowalczyk](http://kownet.info)

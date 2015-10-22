@@ -1,6 +1,6 @@
 OSINT - M03 - Gathering data from YouTube
 =========================================
 
-###Author:
+##Author:
 
 [Tomasz Kowalczyk](http://kownet.info)

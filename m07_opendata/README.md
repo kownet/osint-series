@@ -1,6 +1,6 @@
 OSINT - M07 - Gathering open data
 =================================
 
-###Author:
+##Author:
 
 [Tomasz Kowalczyk](http://kownet.info)

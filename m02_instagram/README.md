@@ -1,6 +1,6 @@
 OSINT - M02 - Gathering data from Instagram
 ===========================================
 
-###Author:
+##Author:
 
 [Tomasz Kowalczyk](http://kownet.info)
