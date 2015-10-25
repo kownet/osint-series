@@ -3,7 +3,7 @@ OSINT - M01 - Gathering data from Twitter
 
 ##Scripts
 
-###1.1 Get user tweets and save them.
+###1.1 [Get user tweets and save them](https://github.com/kownet/osint-series/blob/master/m01_twitter/basic/all_tweets_from_user.py).
 
 How to run this code:
 
@@ -21,7 +21,14 @@ File Header:
 
 `"id","created_at","text"`
 
-###1.2 Discover friends for Twitter user.
+Comment:
+
+When having these kind of data about user we then will be able to find out more information using other technics, For example:
+
+- what is interesting for this user?
+- about what he tweets?
+
+###1.2 [Discover friends for Twitter user](https://github.com/kownet/osint-series/blob/master/m01_twitter/basic/user_friends.py).
 
 How to run this code:
 
@@ -39,7 +46,15 @@ File Header:
 
 `"friend_id","name"`
 
-###1.3 Discover followers for Twitter user.
+Comment:
+
+When having these kind of data about user we then will be able to find out more information about specific user, For example:
+
+- who are users friends?
+- what kind of people they are?
+- do they might have any others mutual connections?
+
+###1.3 [Discover followers for Twitter user](https://github.com/kownet/osint-series/blob/master/m01_twitter/basic/user_followers.py).
 
 How to run this code:
 
@@ -57,7 +72,15 @@ File Header:
 
 `"follower_id","name"`
 
-###1.4 Determine about what people are tweeting at the current moment.
+Comment:
+
+When having these kind of data about user we then will be able to find out more information about specific user, For example:
+
+- who are users whom user is following?
+- what kind of people they are?
+- do they might have any others mutual connections?
+
+###1.4 [Determine about what people are tweeting at the current moment](https://github.com/kownet/osint-series/blob/master/m01_twitter/basic/location_trends.py).
 
 How to run this code:
 
@@ -70,6 +93,13 @@ Parameters:
 Output:
 
 `Output printed in console`
+
+Comment:
+
+When having these kind of data about user we then will be able to find out more information about specific region, For example:
+
+- what is happening there?
+- what interests people out there?
 
 ##Additional information
 
