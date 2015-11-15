@@ -2,7 +2,7 @@ OSINT - M03 - Gathering data from YouTube
 =========================================
 ##Scripts
 
-###1.1 Search for video with keywords.
+###1.1 [Search for video with keywords](https://github.com/kownet/osint-series/blob/master/m03_youtube/basic/movie_keywords.py).
 
 How to run this code:
 
@@ -22,7 +22,7 @@ Comment:
 
 The above script will let you search YouTube for a specific phrase and get the movie results.
 
-###1.2 Search for video with keywords and geolocation.
+###1.2 [Search for video with keywords and geolocation](https://github.com/kownet/osint-series/blob/master/m03_youtube/basic/geolocation_keywords.py).
 
 How to run this code:
 

@@ -2,7 +2,7 @@ OSINT - M04 - Gathering data from Facebook
 ==========================================
 ##Scripts
 
-###[1.1 Download all feed from selected funpage](https://github.com/kownet/osint-series/blob/master/m04_facebook/basic/funpage_feed.py).
+###1.1 [Download all feed from selected funpage](https://github.com/kownet/osint-series/blob/master/m04_facebook/basic/funpage_feed.py).
 
 How to run this code:
 
@@ -26,7 +26,7 @@ Comment:
 
 This script could be very valuable in many situations. We want to know what posts were the most popular. We can also scrape feed from few similar fanpage and compare them.
 
-###[1.2 Find out what fanpages are liked by another fanpage](https://github.com/kownet/osint-series/blob/master/m04_facebook/basic/funpage_likes.py).
+###1.2 [Find out what fanpages are liked by another fanpage](https://github.com/kownet/osint-series/blob/master/m04_facebook/basic/funpage_likes.py).
 
 How to run this code:
 

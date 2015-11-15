@@ -2,7 +2,7 @@ OSINT - M02 - Gathering data from Instagram
 ===========================================
 ##Scripts
 
-###1.1 Discover followers for Instagram user.
+###1.1 [Discover followers for Instagram user](https://github.com/kownet/osint-series/blob/master/m02_instagram/basic/user_insta_followers.py).
 
 How to run this code:
 
@@ -28,7 +28,7 @@ When having these kind of data about user we then will be able to find out more 
 - what kind of people they are?
 - do they might have any others mutual connections?
 
-###1.2 Discover friends for Instagram user.
+###1.2 [Discover friends for Instagram user](https://github.com/kownet/osint-series/blob/master/m02_instagram/basic/user_insta_friends.py).
 
 How to run this code:
 
@@ -54,7 +54,7 @@ When having these kind of data about user we then will be able to find out more 
 - what kind of people they are?
 - do they might have any others mutual connections?
 
-###1.3 Get photos of Instagram user.
+###1.3 [Get photos of Instagram user](https://github.com/kownet/osint-series/blob/master/m02_instagram/basic/user_insta_photos.py).
 
 How to run this code:
 
