@@ -2,7 +2,7 @@ OSINT - M05 - Gathering data by Web Scraping
 =======================================
 ##Scripts
 
-###1.1 Simple web scraper using Python.
+###1.1 [Simple web scraper using Python](https://github.com/kownet/osint-series/blob/master/m05_scraping/basic/pl_ceneo_scrap.py).
 
 How to run this code:
 
