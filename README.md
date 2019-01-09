@@ -1,6 +1,13 @@
 OSINT - Gathering information from the Web
 ==========================================
 
-### Author:
+### Author: [Tomasz Kowalczyk](https://kownet.info)
 
-[Tomasz Kowalczyk](http://kownet.info)
+## OSINT Scraping Tools
+
+### Locations:
+- Twitter
+- Instgram
+- Youtube
+- Web scraping
+- Geodata
